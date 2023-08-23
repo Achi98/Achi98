@@ -1,6 +1,6 @@
-- 👋 Hola, soy @Achi98
-- 👀 Estoy interesado en el desarrollo de software backend,  desarrollo de aplicaciones móviles, la ciencia de datos, el machinne learning y  la inteligencia artificial
-- 🌱 Actualmente estoy aprendiendi React Native para el desarrollo de Apps Móviles Multiplataforma y Ciencia de Datos
+- 👋 Hola, soy Alexi Arias
+- 👀 Estoy interesado en el Big data, Ingeniería de datos, Ciencia de Datos, el Machinne Learning e Inteligencia Artificial
+- 🌱 Acabo de terminar una especialización en Big Data Multicloud y actualmente estudio un diplomado en Big Data Analytics
 - 💞️ Me gustaría participar en proyectos de inteligencia artificial
 - 📫 Pueden contactarme al telegram  como @AlexiArias
 <!---
