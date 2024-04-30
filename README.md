@@ -1,6 +1,6 @@
 - 👋 Hola, soy Alexi Arias
 - 👀 Estoy interesado en el Big data, Ingeniería de datos, Ciencia de Datos, el Machinne Learning e Inteligencia Artificial
-- 🌱 Acabo de terminar una especialización en Big Data Multicloud y actualmente estudio un diplomado en Big Data Analytics
+- 🌱 Poseo una especialización en Big Data Multicloud, un diplomado en Big Data Analytics y actualmente estudio una Maestría en Ciencia de Datos
 - 💞️ Me gustaría participar en proyectos de inteligencia artificial
 - 📫 Pueden contactarme al telegram  como @AlexiArias
 <!---
